@@ -1,0 +1,1464 @@
+<?xml version="1.0"?>
+<team>
+	<leafs>
+		<player>
+			<name>Auston Matthews</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>40</goals>
+			<assists>29</assists>
+			<PIM>14</PIM>
+			<shots>279</shots>
+		</player>
+
+		<player>
+			<name>Mitchell Marner</name>
+			<gamesPlayed>74</gamesPlayed>
+			<goals>19</goals>
+			<assists>42</assists>
+			<PIM>38</PIM>
+			<shots>171</shots>
+		</player>
+
+		<player>
+			<name>Nazem Kadri</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>32</goals>
+			<assists>29</assists>
+			<PIM>95</PIM>
+			<shots>236</shots>
+		</player>
+
+		<player>
+			<name>William Nylander</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>22</goals>
+			<assists>39</assists>
+			<PIM>32</PIM>
+			<shots>205</shots>
+		</player>
+
+		<player>
+			<name>James van Riemsdyk</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>29</goals>
+			<assists>33</assists>
+			<PIM>37</PIM>
+			<shots>238</shots>
+		</player>
+
+		<player>
+			<name>Tyler Bozak</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>18</goals>
+			<assists>37</assists>
+			<PIM>30</PIM>
+			<shots>145</shots>
+		</player>
+
+
+		<player>
+			<name>Jake Gardiner</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>9</goals>
+			<assists>34</assists>
+			<PIM>34</PIM>
+			<shots>127</shots>
+		</player>
+
+		<player>
+			<name>Nikita Zaitsev</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>4</goals>
+			<assists>32</assists>
+			<PIM>38</PIM>
+			<shots>106</shots>
+		</player>
+
+		<player>
+			<name>Connor Brown</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>20</goals>
+			<assists>16</assists>
+			<PIM>10</PIM>
+			<shots>139</shots>
+		</player>
+
+		<player>
+			<name>Leo Komarov</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>14</goals>
+			<assists>18</assists>
+			<PIM>31</PIM>
+			<shots>114</shots>
+		</player>
+
+		<player>
+			<name>Zach Hyman</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>10</goals>
+			<assists>18</assists>
+			<PIM>30</PIM>
+			<shots>156</shots>
+		</player>
+
+		<player>
+			<name>Morgan Rielly</name>
+			<gamesPlayed>73</gamesPlayed>
+			<goals>6</goals>
+			<assists>21</assists>
+			<PIM>21</PIM>
+			<shots>171</shots>
+		</player>
+
+		<player>
+			<name>Matt Hunwick</name>
+			<gamesPlayed>69</gamesPlayed>
+			<goals>1</goals>
+			<assists>18</assists>
+			<PIM>18</PIM>
+			<shots>73</shots>
+		</player>
+
+		<player>
+			<name>Josh Leivo</name>
+			<gamesPlayed>13</gamesPlayed>
+			<goals>2</goals>
+			<assists>8</assists>
+			<PIM>4</PIM>
+			<shots>27</shots>
+		</player>
+
+		<player>
+			<name>Matt Martin</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>5</goals>
+			<assists>4</assists>
+			<PIM>108</PIM>
+			<shots>64</shots>
+		</player>
+
+		<player>
+			<name>Nikita Soshnikov</name>
+			<gamesPlayed>56</gamesPlayed>
+			<goals>5</goals>
+			<assists>4</assists>
+			<PIM>16</PIM>
+			<shots>70</shots>
+		</player>
+
+		<player>
+			<name>Roman Polak</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>4</goals>
+			<assists>5</assists>
+			<PIM>63</PIM>
+			<shots>60</shots>
+		</player>
+
+		<player>
+			<name>Connor Carrick</name>
+			<gamesPlayed>64</gamesPlayed>
+			<goals>2</goals>
+			<assists>6</assists>
+			<PIM>51</PIM>
+			<shots>88</shots>
+		</player>
+
+		<player>
+			<name>Martin Marincin</name>
+			<gamesPlayed>25</gamesPlayed>
+			<goals>1</goals>
+			<assists>6</assists>
+			<PIM>16</PIM>
+			<shots>22</shots>
+		</player>
+
+		<player>
+			<name>Ben Smith</name>
+			<gamesPlayed>36</gamesPlayed>
+			<goals>2</goals>
+			<assists>2</assists>
+			<PIM>4</PIM>
+			<shots>29</shots>
+		</player>
+
+		<player>
+			<name>Brian Boyle</name>
+			<gamesPlayed>18</gamesPlayed>
+			<goals>0</goals>
+			<assists>3</assists>
+			<PIM>18</PIM>
+			<shots>21</shots>
+		</player>
+	</leafs>
+
+
+	<bruins>
+		<player>
+			<name>Brad Marchand</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>39</goals>
+			<assists>46</assists>
+			<PIM>81</PIM>
+			<shots>226</shots>
+		</player>
+
+		<player>
+			<name>David Pastrnak</name>
+			<gamesPlayed>73</gamesPlayed>
+			<goals>34</goals>
+			<assists>36</assists>
+			<PIM>34</PIM>
+			<shots>257</shots>
+		</player>
+
+		<player>
+			<name>David Krejci</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>23</goals>
+			<assists>31</assists>
+			<PIM>20</PIM>
+			<shots>158</shots>
+		</player>
+
+		<player>
+			<name>Patrice Bergeron</name>
+			<gamesPlayed>77</gamesPlayed>
+			<goals>21</goals>
+			<assists>32</assists>
+			<PIM>24</PIM>
+			<shots>295</shots>
+		</player>
+
+		<player>
+			<name>Torey Krug</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>8</goals>
+			<assists>43</assists>
+			<PIM>37</PIM>
+			<shots>207</shots>
+		</player>
+
+		<player>
+			<name>Ryan Spooner</name>
+			<gamesPlayed>76</gamesPlayed>
+			<goals>11</goals>
+			<assists>28</assists>
+			<PIM>14</PIM>
+			<shots>144</shots>
+		</player>
+
+		<player>
+			<name>David Backes</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>17</goals>
+			<assists>21</assists>
+			<PIM>67</PIM>
+			<shots>167</shots>
+		</player>
+
+		<player>
+			<name>Zdeno Chara</name>
+			<gamesPlayed>73</gamesPlayed>
+			<goals>10</goals>
+			<assists>18</assists>
+			<PIM>55</PIM>
+			<shots>132</shots>
+		</player>
+
+		<player>
+			<name>Dominic Moore</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>11</goals>
+			<assists>14</assists>
+			<PIM>42</PIM>
+			<shots>94</shots>
+		</player>
+
+		<player>
+			<name>Frank Vatrano</name>
+			<gamesPlayed>42</gamesPlayed>
+			<goals>10</goals>
+			<assists>8</assists>
+			<PIM>14</PIM>
+			<shots>109</shots>
+		</player>
+
+		<player>
+			<name>Riley Nash</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>7</goals>
+			<assists>10</assists>
+			<PIM>14</PIM>
+			<shots>124</shots>
+		</player>
+
+		<player>
+			<name>Brandon Carlo</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>6</goals>
+			<assists>10</assists>
+			<PIM>59</PIM>
+			<shots>88</shots>
+		</player>
+
+		<player>
+			<name>Tim Schaller</name>
+			<gamesPlayed>58</gamesPlayed>
+			<goals>7</goals>
+			<assists>7</assists>
+			<PIM>23</PIM>
+			<shots>89</shots>
+		</player>
+
+		<player>
+			<name>Kevan Miller</name>
+			<gamesPlayed>56</gamesPlayed>
+			<goals>3</goals>
+			<assists>10</assists>
+			<PIM>50</PIM>
+			<shots>49</shots>
+		</player>
+
+		<player>
+			<name>Colin Miller</name>
+			<gamesPlayed>60</gamesPlayed>
+			<goals>5</goals>
+			<assists>7</assists>
+			<PIM>55</PIM>
+			<shots>84</shots>
+		</player>
+
+		<player>
+			<name>Adam McQuaid</name>
+			<gamesPlayed>75</gamesPlayed>
+			<goals>2</goals>
+			<assists>8</assists>
+			<PIM>71</PIM>
+			<shots>62</shots>
+		</player>
+
+		<player>
+			<name>Matt Beleskey</name>
+			<gamesPlayed>47</gamesPlayed>
+			<goals>3</goals>
+			<assists>5</assists>
+			<PIM>45</PIM>
+			<shots>77</shots>
+		</player>
+
+		<player>
+			<name>Drew Stafford</name>
+			<gamesPlayed>16</gamesPlayed>
+			<goals>3</goals>
+			<assists>3</assists>
+			<PIM>10</PIM>
+			<shots>37</shots>
+		</player>
+
+		<player>
+			<name>Jimmy Hayes</name>
+			<gamesPlayed>58</gamesPlayed>
+			<goals>2</goals>
+			<assists>3</assists>
+			<PIM>29</PIM>
+			<shots>74</shots>
+		</player>
+
+		<player>
+			<name>Noel Acciari</name>
+			<gamesPlayed>28</gamesPlayed>
+			<goals>2</goals>
+			<assists>3</assists>
+			<PIM>16</PIM>
+			<shots>23</shots>
+		</player>
+
+		<player>
+			<name>John-Michael Liles</name>
+			<gamesPlayed>34</gamesPlayed>
+			<goals>0</goals>
+			<assists>5</assists>
+			<PIM>4</PIM>
+			<shots>31</shots>
+		</player>
+
+		<player>
+			<name>Joe Morrow</name>
+			<gamesPlayed>17</gamesPlayed>
+			<goals>0</goals>
+			<assists>1</assists>
+			<PIM>8</PIM>
+			<shots>19</shots>
+		</player>
+
+	</bruins>
+
+	<senators>
+		<player>
+			<name>Erik Karlsson</name>
+			<gamesPlayed>77</gamesPlayed>
+			<goals>17</goals>
+			<assists>54</assists>
+			<PIM>28</PIM>
+			<shots>218</shots>
+		</player>
+
+		<player>
+			<name>Mike Hoffman</name>
+			<gamesPlayed>73</gamesPlayed>
+			<goals>25</goals>
+			<assists>35</assists>
+			<PIM>51</PIM>
+			<shots>219</shots>
+		</player>
+
+		<player>
+			<name>Kyle Turris</name>
+			<gamesPlayed>77</gamesPlayed>
+			<goals>27</goals>
+			<assists>28</assists>
+			<PIM>45</PIM>
+			<shots>181</shots>
+		</player>
+
+		<player>
+			<name>Mark Stone</name>
+			<gamesPlayed>70</gamesPlayed>
+			<goals>22</goals>
+			<assists>30</assists>
+			<PIM>25</PIM>
+			<shots>132</shots>
+		</player>
+
+		<player>
+			<name>Derick Brassard</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>13</goals>
+			<assists>25</assists>
+			<PIM>24</PIM>
+			<shots>191</shots>
+		</player>
+
+		<player>
+			<name>Zack Smith</name>
+			<gamesPlayed>74</gamesPlayed>
+			<goals>16</goals>
+			<assists>16</assists>
+			<PIM>61</PIM>
+			<shots>137</shots>
+		</player>
+
+		<player>
+			<name>Ryan Dzingel</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>14</goals>
+			<assists>17</assists>
+			<PIM>30</PIM>
+			<shots>117</shots>
+		</player>
+
+		<player>
+			<name>Jean-Gabriel Pageau</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>10</goals>
+			<assists>20</assists>
+			<PIM>22</PIM>
+			<shots>164</shots>
+		</player>
+
+		<player>
+			<name>Dion Phaneuf</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>9</goals>
+			<assists>21</assists>
+			<PIM>100</PIM>
+			<shots>155</shots>
+		</player>
+
+		<player>
+			<name>Bobby Ryan</name>
+			<gamesPlayed>61</gamesPlayed>
+			<goals>12</goals>
+			<assists>12</assists>
+			<PIM>24</PIM>
+			<shots>110</shots>
+		</player>
+
+		<player>
+			<name>Tom Pyatt</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>9</goals>
+			<assists>14</assists>
+			<PIM>16</PIM>
+			<shots>93</shots>
+		</player>
+
+		<player>
+			<name>Chris Wideman</name>
+			<gamesPlayed>74</gamesPlayed>
+			<goals>5</goals>
+			<assists>12</assists>
+			<PIM>46</PIM>
+			<shots>119</shots>
+		</player>
+
+		<player>
+			<name>Cody Ceci</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>2</goals>
+			<assists>15</assists>
+			<PIM>20</PIM>
+			<shots>141</shots>
+		</player>
+
+		<player>
+			<name>Chris Kelly</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>5</goals>
+			<assists>7</assists>
+			<PIM>23</PIM>
+			<shots>85</shots>
+		</player>
+
+		<player>
+			<name>Marc Methot</name>
+			<gamesPlayed>68</gamesPlayed>
+			<goals>0</goals>
+			<assists>12</assists>
+			<PIM>24</PIM>
+			<shots>69</shots>
+		</player>
+
+		<player>
+			<name>Fredrik Claesson</name>
+			<gamesPlayed>31</gamesPlayed>
+			<goals>3</goals>
+			<assists>8</assists>
+			<PIM>4</PIM>
+			<shots>22</shots>
+		</player>
+
+		<player>
+			<name>Alexandre Burrows</name>
+			<gamesPlayed>18</gamesPlayed>
+			<goals>6</goals>
+			<assists>3</assists>
+			<PIM>7</PIM>
+			<shots>25</shots>
+		</player>
+
+		<player>
+			<name>Tommy Wingels</name>
+			<gamesPlayed>34</gamesPlayed>
+			<goals>2</goals>
+			<assists>2</assists>
+			<PIM>12</PIM>
+			<shots>36</shots>
+		</player>
+
+		<player>
+			<name>Viktor Stalberg</name>
+			<gamesPlayed>17</gamesPlayed>
+			<goals>2</goals>
+			<assists>1</assists>
+			<PIM>8</PIM>
+			<shots>28</shots>
+		</player>
+
+		<player>
+			<name>Chris Neil</name>
+			<gamesPlayed>52</gamesPlayed>
+			<goals>1</goals>
+			<assists>2</assists>
+			<PIM>63</PIM>
+			<shots>41</shots>
+		</player>
+
+		<player>
+			<name>Mark Borowiecki</name>
+			<gamesPlayed>68</gamesPlayed>
+			<goals>1</goals>
+			<assists>1</assists>
+			<PIM>149</PIM>
+			<shots>48</shots>
+		</player>
+
+	</senators>
+
+
+	<rangers>
+		<player>
+			<name>Mats Zuccarello</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>15</goals>
+			<assists>44</assists>
+			<PIM>26</PIM>
+			<shots>188</shots>
+		</player>
+
+		<player>
+			<name>J.T. Miller</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>22</goals>
+			<assists>34</assists>
+			<PIM>21</PIM>
+			<shots>131</shots>
+		</player>
+
+		<player>
+			<name>Derek Stepan</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>16</goals>
+			<assists>38</assists>
+			<PIM>16</PIM>
+			<shots>206</shots>
+		</player>
+
+		<player>
+			<name>Chris Kreider</name>
+			<gamesPlayed>75</gamesPlayed>
+			<goals>28</goals>
+			<assists>25</assists>
+			<PIM>58</PIM>
+			<shots>186</shots>
+		</player>
+
+		<player>
+			<name>Kevin Hayes</name>
+			<gamesPlayed>76</gamesPlayed>
+			<goals>17</goals>
+			<assists>32</assists>
+			<PIM>18</PIM>
+			<shots>143</shots>
+		</player>
+
+		<player>
+			<name>Ryan McDonagh</name>
+			<gamesPlayed>76</gamesPlayed>
+			<goals>5</goals>
+			<assists>35</assists>
+			<PIM>37</PIM>
+			<shots>149</shots>
+		</player>
+
+		<player>
+			<name>Michael Grabner</name>
+			<gamesPlayed>75</gamesPlayed>
+			<goals>27</goals>
+			<assists>12</assists>
+			<PIM>10</PIM>
+			<shots>161</shots>
+		</player>
+
+		<player>
+			<name>Brady Skjei</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>5</goals>
+			<assists>34</assists>
+			<PIM>42</PIM>
+			<shots>126</shots>
+		</player>
+
+		<player>
+			<name>Rick Nash</name>
+			<gamesPlayed>66</gamesPlayed>
+			<goals>23</goals>
+			<assists>15</assists>
+			<PIM>26</PIM>
+			<shots>194</shots>
+		</player>
+
+		<player>
+			<name>Mika Zibanejad</name>
+			<gamesPlayed>55</gamesPlayed>
+			<goals>14</goals>
+			<assists>21</assists>
+			<PIM>16</PIM>
+			<shots>117</shots>
+		</player>
+
+		<player>
+			<name>Nick Holden</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>11</goals>
+			<assists>23</assists>
+			<PIM>35</PIM>
+			<shots>83</shots>
+		</player>
+
+		<player>
+			<name>Jimmy Vesey</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>15</goals>
+			<assists>11</assists>
+			<PIM>26</PIM>
+			<shots>113</shots>
+		</player>
+
+		<player>
+			<name>Jesper Fast</name>
+			<gamesPlayed>68</gamesPlayed>
+			<goals>6</goals>
+			<assists>15</assists>
+			<PIM>16</PIM>
+			<shots>56</shots>
+		</player>
+
+		<player>
+			<name>Oscar Lindberg</name>
+			<gamesPlayed>64</gamesPlayed>
+			<goals>8</goals>
+			<assists>12</assists>
+			<PIM>32</PIM>
+			<shots>86</shots>
+		</player>
+
+		<player>
+			<name>Pavel Buchnevich</name>
+			<gamesPlayed>40</gamesPlayed>
+			<goals>8</goals>
+			<assists>12</assists>
+			<PIM>13</PIM>
+			<shots>55</shots>
+		</player>
+
+		<player>
+			<name>Brandon Pirri</name>
+			<gamesPlayed>59</gamesPlayed>
+			<goals>8</goals>
+			<assists>10</assists>
+			<PIM>25</PIM>
+			<shots>96</shots>
+		</player>
+
+		<player>
+			<name>Dan Girardi</name>
+			<gamesPlayed>62</gamesPlayed>
+			<goals>4</goals>
+			<assists>11</assists>
+			<PIM>16</PIM>
+			<shots>55</shots>
+		</player>
+
+		<player>
+			<name>Kevin Klein</name>
+			<gamesPlayed>59</gamesPlayed>
+			<goals>3</goals>
+			<assists>11</assists>
+			<PIM>31</PIM>
+			<shots>53</shots>
+		</player>
+
+		<player>
+			<name>Adam Clendening</name>
+			<gamesPlayed>31</gamesPlayed>
+			<goals>3</goals>
+			<assists>2</assists>
+			<PIM>17</PIM>
+			<shots>38</shots>
+		</player>
+
+		<player>
+			<name>Marc Staal</name>
+			<gamesPlayed>71</gamesPlayed>
+			<goals>3</goals>
+			<assists>7</assists>
+			<PIM>34</PIM>
+			<shots>70</shots>
+		</player>
+
+		<player>
+			<name>Matt Puempel</name>
+			<gamesPlayed>27</gamesPlayed>
+			<goals>6</goals>
+			<assists>3</assists>
+			<PIM>4</PIM>
+			<shots>32</shots>
+		</player>
+
+	</rangers>
+
+
+
+	<habs>
+		<player>
+			<name>Max Pacioretty</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>35</goals>
+			<assists>32</assists>
+			<PIM>38</PIM>
+			<shots>268</shots>
+		</player>
+
+		<player>
+			<name>Alexander Radulov</name>
+			<gamesPlayed>76</gamesPlayed>
+			<goals>18</goals>
+			<assists>36</assists>
+			<PIM>62</PIM>
+			<shots>147</shots>
+		</player>
+
+		<player>
+			<name>Alex Galchenyuk</name>
+			<gamesPlayed>60</gamesPlayed>
+			<goals>16</goals>
+			<assists>27</assists>
+			<PIM>24</PIM>
+			<shots>102</shots>
+		</player>
+
+		<player>
+			<name>Paul Byron</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>22</goals>
+			<assists>20</assists>
+			<PIM>29</PIM>
+			<shots>94</shots>
+		</player>
+
+		<player>
+			<name>Shea Weber</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>17</goals>
+			<assists>25</assists>
+			<PIM>38</PIM>
+			<shots>183</shots>
+		</player>
+
+		<player>
+			<name>Phillip Danault</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>13</goals>
+			<assists>27</assists>
+			<PIM>35</PIM>
+			<shots>131</shots>
+		</player>
+
+		<player>
+			<name>Andrei Markov</name>
+			<gamesPlayed>62</gamesPlayed>
+			<goals>6</goals>
+			<assists>30</assists>
+			<PIM>16</PIM>
+			<shots>98</shots>
+		</player>
+
+		<player>
+			<name>Andrew Shaw</name>
+			<gamesPlayed>67</gamesPlayed>
+			<goals>12</goals>
+			<assists>17</assists>
+			<PIM>110</PIM>
+			<shots>124</shots>
+		</player>
+
+		<player>
+			<name>Tomas Plekanec</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>10</goals>
+			<assists>18</assists>
+			<PIM>24</PIM>
+			<shots>139</shots>
+		</player>
+
+		<player>
+			<name>Brendan Gallagher</name>
+			<gamesPlayed>63</gamesPlayed>
+			<goals>10</goals>
+			<assists>18</assists>
+			<PIM>39</PIM>
+			<shots>184</shots>
+		</player>
+
+		<player>
+			<name>Jeff Petry</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>8</goals>
+			<assists>20</assists>
+			<PIM>22</PIM>
+			<shots>170</shots>
+		</player>
+
+		<player>
+			<name>Artturi Lehkonen</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>17</goals>
+			<assists>10</assists>
+			<PIM>8</PIM>
+			<shots>156</shots>
+		</player>
+
+		<player>
+			<name>Nathan Beaulieu</name>
+			<gamesPlayed>73</gamesPlayed>
+			<goals>3</goals>
+			<assists>24</assists>
+			<PIM>44</PIM>
+			<shots>117</shots>
+		</player>
+
+		<player>
+			<name>Torrey Mitchell</name>
+			<gamesPlayed>77</gamesPlayed>
+			<goals>8</goals>
+			<assists>9</assists>
+			<PIM>38</PIM>
+			<shots>66</shots>
+		</player>
+
+		<player>
+			<name>Brian Flynn</name>
+			<gamesPlayed>50</gamesPlayed>
+			<goals>6</goals>
+			<assists>4</assists>
+			<PIM>4</PIM>
+			<shots>46</shots>
+		</player>
+
+		<player>
+			<name>Alexei Emelin</name>
+			<gamesPlayed>76</gamesPlayed>
+			<goals>2</goals>
+			<assists>8</assists>
+			<PIM>71</PIM>
+			<shots>82</shots>
+		</player>
+
+
+	</habs>
+
+
+
+	<blueJackets>
+		<player>
+			<name>Cam Atkinson</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>35</goals>
+			<assists>27</assists>
+			<PIM>22</PIM>
+			<shots>240</shots>
+		</player>
+
+		<player>
+			<name>Alexander Wennberg</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>13</goals>
+			<assists>46</assists>
+			<PIM>21</PIM>
+			<shots>109</shots>
+		</player>
+
+		<player>
+			<name>Brandon Saad</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>24</goals>
+			<assists>29</assists>
+			<PIM>8</PIM>
+			<shots>210</shots>
+		</player>
+
+		<player>
+			<name>Nick Foligno</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>26</goals>
+			<assists>25</assists>
+			<PIM>55</PIM>
+			<shots>185</shots>
+		</player>
+
+		<player>
+			<name>Sam Gagner</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>18</goals>
+			<assists>32</assists>
+			<PIM>22</PIM>
+			<shots>178</shots>
+		</player>
+
+		<player>
+			<name>Zach Werenski</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>11</goals>
+			<assists>36</assists>
+			<PIM>14</PIM>
+			<shots>188</shots>
+		</player>
+
+
+		<player>
+			<name>Seth Jones</name>
+			<gamesPlayed>75</gamesPlayed>
+			<goals>12</goals>
+			<assists>30</assists>
+			<PIM>24</PIM>
+			<shots>152</shots>
+		</player>
+
+		<player>
+			<name>Brandon Dubinsky</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>12</goals>
+			<assists>29</assists>
+			<PIM>91</PIM>
+			<shots>115</shots>
+		</player>
+
+		<player>
+			<name>Scott Hartnell</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>13</goals>
+			<assists>24</assists>
+			<PIM>63</PIM>
+			<shots>104</shots>
+		</player>
+
+		<player>
+			<name>Boone Jenner</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>18</goals>
+			<assists>16</assists>
+			<PIM>52</PIM>
+			<shots>211</shots>
+		</player>
+
+		<player>
+			<name>Josh Anderson</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>17</goals>
+			<assists>12</assists>
+			<PIM>89</PIM>
+			<shots>119</shots>
+		</player>
+
+		<player>
+			<name>William Karlsson</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>6</goals>
+			<assists>19</assists>
+			<PIM>10</PIM>
+			<shots>96</shots>
+		</player>
+
+		<player>
+			<name>David Savard</name>
+			<gamesPlayed>74</gamesPlayed>
+			<goals>6</goals>
+			<assists>17</assists>
+			<PIM>44</PIM>
+			<shots>135</shots>
+		</player>
+
+		<player>
+			<name>Jack Johnson</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>5</goals>
+			<assists>18</assists>
+			<PIM>32</PIM>
+			<shots>116</shots>
+		</player>
+
+		<player>
+			<name>Matt Calvert</name>
+			<gamesPlayed>65</gamesPlayed>
+			<goals>10</goals>
+			<assists>5</assists>
+			<PIM>48</PIM>
+			<shots>92</shots>
+		</player>
+
+		<player>
+			<name>Lukas Sedlak</name>
+			<gamesPlayed>62</gamesPlayed>
+			<goals>7</goals>
+			<assists>6</assists>
+			<PIM>25</PIM>
+			<shots>57</shots>
+		</player>
+
+		<player>
+			<name>Oliver Bjorkstrand</name>
+			<gamesPlayed>26</gamesPlayed>
+			<goals>6</goals>
+			<assists>7</assists>
+			<PIM>6</PIM>
+			<shots>55</shots>
+		</player>
+
+		<player>
+			<name>Ryan Murray</name>
+			<gamesPlayed>60</gamesPlayed>
+			<goals>2</goals>
+			<assists>9</assists>
+			<PIM>24</PIM>
+			<shots>52</shots>
+		</player>
+
+		<player>
+			<name>Markus Nutivaara</name>
+			<gamesPlayed>66</gamesPlayed>
+			<goals>2</goals>
+			<assists>5</assists>
+			<PIM>6</PIM>
+			<shots>66</shots>
+		</player>
+
+	</blueJackets>
+
+
+
+
+	<penguins>
+		<player>
+			<name>Sidney Crosby</name>
+			<gamesPlayed>75</gamesPlayed>
+			<goals>44</goals>
+			<assists>45</assists>
+			<PIM>24</PIM>
+			<shots>255</shots>
+		</player>
+
+		<player>
+			<name>Evgeni Malkin</name>
+			<gamesPlayed>62</gamesPlayed>
+			<goals>33</goals>
+			<assists>39</assists>
+			<PIM>77</PIM>
+			<shots>191</shots>
+		</player>
+
+		<player>
+			<name>Phil Kessel</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>23</goals>
+			<assists>47</assists>
+			<PIM>20</PIM>
+			<shots>229</shots>
+		</player>
+
+		<player>
+			<name>Conor Sheary</name>
+			<gamesPlayed>61</gamesPlayed>
+			<goals>23</goals>
+			<assists>30</assists>
+			<PIM>22</PIM>
+			<shots>154</shots>
+		</player>
+
+		<player>
+			<name>Justin Schultz</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>12</goals>
+			<assists>39</assists>
+			<PIM>34</PIM>
+			<shots>154</shots>
+		</player>
+
+		<player>
+			<name>Patric Hornqvist</name>
+			<gamesPlayed>70</gamesPlayed>
+			<goals>21</goals>
+			<assists>23</assists>
+			<PIM>28</PIM>
+			<shots>223</shots>
+		</player>
+
+		<player>
+			<name>Nick Bonino</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>18</goals>
+			<assists>19</assists>
+			<PIM>16</PIM>
+			<shots>142</shots>
+		</player>
+
+		<player>
+			<name>Kris Letang</name>
+			<gamesPlayed>45</gamesPlayed>
+			<goals>5</goals>
+			<assists>29</assists>
+			<PIM>32</PIM>
+			<shots>122</shots>
+		</player>
+
+		<player>
+			<name>Jake Guentzel</name>
+			<gamesPlayed>40</gamesPlayed>
+			<goals>16</goals>
+			<assists>17</assists>
+			<PIM>10</PIM>
+			<shots>81</shots>
+		</player>
+
+		<player>
+			<name>Matt Cullen</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>13</goals>
+			<assists>18</assists>
+			<PIM>30</PIM>
+			<shots>93</shots>
+		</player>
+
+		<player>
+			<name>Chris Kunitz</name>
+			<gamesPlayed>71</gamesPlayed>
+			<goals>9</goals>
+			<assists>20</assists>
+			<PIM>36</PIM>
+			<shots>134</shots>
+		</player>
+
+		<player>
+			<name>Bryan Rust</name>
+			<gamesPlayed>57</gamesPlayed>
+			<goals>15</goals>
+			<assists>13</assists>
+			<PIM>8</PIM>
+			<shots>110</shots>
+		</player>
+
+		<player>
+			<name>Scott Wilson</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>8</goals>
+			<assists>18</assists>
+			<PIM>32</PIM>
+			<shots>127</shots>
+		</player>
+
+		<player>
+			<name>Ian Cole</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>5</goals>
+			<assists>21</assists>
+			<PIM>72</PIM>
+			<shots>89</shots>
+		</player>
+
+		<player>
+			<name>Carl Hagelin</name>
+			<gamesPlayed>61</gamesPlayed>
+			<goals>6</goals>
+			<assists>16</assists>
+			<PIM>16</PIM>
+			<shots>128</shots>
+		</player>
+
+		<player>
+			<name>Trevor Daley</name>
+			<gamesPlayed>56</gamesPlayed>
+			<goals>5</goals>
+			<assists>14</assists>
+			<PIM>37</PIM>
+			<shots>84</shots>
+		</player>
+
+		<player>
+			<name>Tom Kuhnhackl</name>
+			<gamesPlayed>57</gamesPlayed>
+			<goals>4</goals>
+			<assists>12</assists>
+			<PIM>18</PIM>
+			<shots>49</shots>
+		</player>
+
+		<player>
+			<name>Brian Dumoulin</name>
+			<gamesPlayed>70</gamesPlayed>
+			<goals>1</goals>
+			<assists>14</assists>
+			<PIM>14</PIM>
+			<shots>78</shots>
+		</player>
+
+		<player>
+			<name>Chad Ruhwedel</name>
+			<gamesPlayed>34</gamesPlayed>
+			<goals>2</goals>
+			<assists>8</assists>
+			<PIM>8</PIM>
+			<shots>45</shots>
+		</player>
+
+	</penguins>
+
+
+
+
+	<capitals>
+		<player>
+			<name>Nicklas Backstrom</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>23</goals>
+			<assists>63</assists>
+			<PIM>38</PIM>
+			<shots>162</shots>
+		</player>
+
+		<player>
+			<name>Alex Ovechkin</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>33</goals>
+			<assists>36</assists>
+			<PIM>50</PIM>
+			<shots>313</shots>
+		</player>
+
+		<player>
+			<name>Evgeny Kuznetsov</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>19</goals>
+			<assists>40</assists>
+			<PIM>46</PIM>
+			<shots>170</shots>
+		</player>
+
+		<player>
+			<name>Marcus Johansson</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>24</goals>
+			<assists>34</assists>
+			<PIM>10</PIM>
+			<shots>129</shots>
+		</player>
+
+		<player>
+			<name>T.J. Oshie</name>
+			<gamesPlayed>68</gamesPlayed>
+			<goals>33</goals>
+			<assists>23</assists>
+			<PIM>36</PIM>
+			<shots>143</shots>
+		</player>
+
+		<player>
+			<name>Justin Williams</name>
+			<gamesPlayed>80</gamesPlayed>
+			<goals>24</goals>
+			<assists>24</assists>
+			<PIM>50</PIM>
+			<shots>167</shots>
+		</player>
+
+		<player>
+			<name>Matt Niskanen</name>
+			<gamesPlayed>78</gamesPlayed>
+			<goals>5</goals>
+			<assists>34</assists>
+			<PIM>39</PIM>
+			<shots>154</shots>
+		</player>
+
+		<player>
+			<name>John Carlson</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>9</goals>
+			<assists>28</assists>
+			<PIM>10</PIM>
+			<shots>180</shots>
+		</player>
+
+		<player>
+			<name>Andre Burakovsky</name>
+			<gamesPlayed>64</gamesPlayed>
+			<goals>12</goals>
+			<assists>23</assists>
+			<PIM>14</PIM>
+			<shots>111</shots>
+		</player>
+
+		<player>
+			<name>Dmitry Orlov</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>6</goals>
+			<assists>27</assists>
+			<PIM>51</PIM>
+			<shots>125</shots>
+		</player>
+
+		<player>
+			<name>Jay Beagle</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>13</goals>
+			<assists>17</assists>
+			<PIM>22</PIM>
+			<shots>100</shots>
+		</player>
+
+		<player>
+			<name>Lars Eller</name>
+			<gamesPlayed>81</gamesPlayed>
+			<goals>12</goals>
+			<assists>13</assists>
+			<PIM>36</PIM>
+			<shots>115</shots>
+		</player>
+
+		<player>
+			<name>Daniel Winnik</name>
+			<gamesPlayed>72</gamesPlayed>
+			<goals>12</goals>
+			<assists>13</assists>
+			<PIM>49</PIM>
+			<shots>82</shots>
+		</player>
+
+		<player>
+			<name>Brett Connolly</name>
+			<gamesPlayed>66</gamesPlayed>
+			<goals>15</goals>
+			<assists>8</assists>
+			<PIM>40</PIM>
+			<shots>81</shots>
+		</player>
+
+		<player>
+			<name>Tom Wilson</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>7</goals>
+			<assists>12</assists>
+			<PIM>133</PIM>
+			<shots>95</shots>
+		</player>
+
+		<player>
+			<name>Nate Schmidt</name>
+			<gamesPlayed>60</gamesPlayed>
+			<goals>3</goals>
+			<assists>14</assists>
+			<PIM>16</PIM>
+			<shots>60</shots>
+		</player>
+
+		<player>
+			<name>Kevin Shattenkirk</name>
+			<gamesPlayed>19</gamesPlayed>
+			<goals>2</goals>
+			<assists>12</assists>
+			<PIM>10</PIM>
+			<shots>46</shots>
+		</player>
+
+		<player>
+			<name>Brooks Orpik</name>
+			<gamesPlayed>79</gamesPlayed>
+			<goals>0</goals>
+			<assists>14</assists>
+			<PIM>48</PIM>
+			<shots>93</shots>
+		</player>
+
+		<player>
+			<name>Karl Alzner</name>
+			<gamesPlayed>82</gamesPlayed>
+			<goals>3</goals>
+			<assists>10</assists>
+			<PIM>28</PIM>
+			<shots>81</shots>
+		</player>
+
+
+	</capitals>
+
+</team>
